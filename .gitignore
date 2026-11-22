@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+ratings/*.csv
+!ratings/.gitkeep
+.streamlit/secrets.toml
+fetch_errors.log
+backup_sample_data/

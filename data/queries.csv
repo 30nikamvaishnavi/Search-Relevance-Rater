@@ -1,0 +1,41 @@
+query_id,language,query,intent
+q01,en,how to apply for pan card online,informational
+q02,en,irctc login,navigational
+q03,en,sbi net banking,navigational
+q04,en,buy running shoes under 3000,transactional
+q05,en,difference between ai and machine learning,informational
+q06,en,kolhapur weather today,informational
+q07,en,what is sip in mutual funds,informational
+q08,en,download aadhaar card,transactional
+q09,en,flipkart mobile offers,navigational
+q10,en,symptoms of dengue fever,informational
+q11,en,how to reduce belly fat naturally,informational
+q12,en,ipl points table,informational
+q13,en,order pizza online near me,transactional
+q14,en,gmail sign in,navigational
+q15,en,python tutorial for beginners,informational
+q16,en,cheap flights mumbai to delhi,transactional
+q17,en,how to check pf balance,informational
+q18,en,how to open demat account,informational
+q19,en,best phone under 20000,transactional
+q20,en,maharashtra ssc result date,informational
+q21,hi,आधार कार्ड कैसे डाउनलोड करें,informational
+q22,hi,पीएम किसान सम्मान निधि स्टेटस,informational
+q23,hi,आज का मौसम कोल्हापुर,informational
+q24,hi,ऑनलाइन राशन कार्ड कैसे बनवाएं,informational
+q25,hi,सस्ते मोबाइल फोन खरीदें,transactional
+q26,hi,एसबीआई नेट बैंकिंग लॉगिन,navigational
+q27,hi,बुखार के घरेलू उपाय,informational
+q28,hi,आईपीएल लाइव स्कोर,informational
+q29,hi,हिंदी टाइपिंग टेस्ट,informational
+q30,hi,गूगल ट्रांसलेट,navigational
+q31,hi,रेलवे टिकट बुक करें,transactional
+q32,hi,सरकारी नौकरी की जानकारी,informational
+q33,hi,पैन कार्ड और आधार लिंक कैसे करें,informational
+q34,hi,वजन कम करने के आसान तरीके,informational
+q35,hi,अमेज़न ऑफर,navigational
+q36,hi,महाराष्ट्र बोर्ड रिजल्ट,informational
+q37,hi,हिंदी में निबंध कैसे लिखें,informational
+q38,hi,ऑनलाइन कपड़े खरीदें,transactional
+q39,hi,व्हाट्सएप वेब लॉगिन,navigational
+q40,hi,बिजली बिल ऑनलाइन भुगतान,transactional
